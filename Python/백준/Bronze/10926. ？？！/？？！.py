@@ -1,3 +1,3 @@
-a = input()
+id = input()
 
-print(a+"??!")
+print(id+"??!")
