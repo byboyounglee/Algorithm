@@ -21,3 +21,8 @@
 5. 밑에서 비교를 숫자랑 하기때문에 숫자로 변경해줘야 함! (int()로 감싸서)
 6. if 90 <= A <= 100 : 이걸로 한 번 해봤는데 맞았음! #  if A>=90 and A<=100 도 가능!
 7.  팁 헷갈리면 중간에 주석을 달아서 구분해주자!
+
+
+
+# 파일 위치 변경하는 방법
+https://docs.github.com/ko/repositories/working-with-files/managing-files/moving-a-file-to-a-new-location
